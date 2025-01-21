@@ -1,0 +1,29 @@
+"# SQL Project with Cars, Sales, and Monthly_Sales_Summary Tables" 
+
+## Project Overview
+This project contains SQL scripts for managing car sales data. It includes the following tables:
+- **Cars**: Contains details of car models, types, and year of release.
+- **Sales**: Tracks car sales by city, date, and number of units sold.
+- **Monthly_Sales_Summary**: Summarizes monthly car sales for analysis.
+
+## Features
+- Data modeling with relational tables.
+- Dynamic data generation using PL/SQL loops.
+- Comprehensive summary of monthly sales data.
+
+## Files Included
+- **cars.sql**: Contains table creation and data insertion for the `Cars` table.
+- **sales.sql**: Contains table creation and data insertion for the `Sales` table.
+- **monthly_sales_summary.sql**: Contains table creation for `Monthly_Sales_Summary`.
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/saikiranbarla/Automotive-Sales-Analytics-Project.git
+
+
+Prerequisites
+Oracle Database.
+Oracle SQL Developer or similar tools.
+
+
